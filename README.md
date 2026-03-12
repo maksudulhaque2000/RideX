@@ -16,7 +16,7 @@ This repository contains the frontend for **RideX**, a production-grade, fully r
 
 ## 🚀 Live Links & Demo
 
--   **Live Frontend URL:** [https://ride-x-puce.vercel.app/](https://ride-x-puce.vercel.app/)
+-   **Live Frontend URL:** [https://ride-x-flame.vercel.app/](https://ride-x-flame.vercel.app/)
 -   **Live Backend URL:** [https://ridex-server-seven.vercel.app/](https://ridex-server-seven.vercel.app/)
 -   **Backend Repositorie URL:** [https://github.com/maksudulhaque2000/RideX-Server](https://github.com/maksudulhaque2000/RideX-Server)
 -   ## 🎬 [Video Explanation Link](https://drive.google.com/file/d/1fwL1vwCjXs27QY8oTPCHHUdOKf4IPShe/view?usp=sharing)
@@ -95,7 +95,7 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/maksudulhaque2000/Assignment-6-L2](https://github.com/maksudulhaque2000/Assignment-6-L2)
+git clone [https://github.com/maksudulhaque2000/RideX](https://github.com/maksudulhaque2000/RideX)
 cd ride-booking-frontend
 ```
 
